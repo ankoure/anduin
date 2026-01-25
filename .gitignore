@@ -14,3 +14,6 @@ data/gtfs
 data/valhalla_tiles
 data/valhalla_tiles.tar
 data/osm
+
+#Docs
+docs/_build/
