@@ -13,6 +13,12 @@ to OpenStreetMap road networks using Valhalla.
    api
 
 
+Visualizations
+==============
+
+* `Route Overlaps Map <_static/route_overlaps.html>`_ - Interactive map showing route overlap analysis
+
+
 Indices and tables
 ==================
 
